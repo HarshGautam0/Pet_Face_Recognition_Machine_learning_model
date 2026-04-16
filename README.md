@@ -19,13 +19,13 @@ A working web version of this project has been deployed for real-time inference.
 
 ## 📷 Demo
 
-![App Screenshot](screenshot (1))
-![App Screenshot](screenshot (2))
-![App Screenshot](screenshot (3))
-![App Screenshot](screenshot (4))
-![App Screenshot](screenshot (5))
-![App Screenshot](screenshot (6))
-![App Screenshot](screenshot (7))
+![App Screenshot](screenshot (1).png)
+![App Screenshot](screenshot (2).png)
+![App Screenshot](screenshot (3).png)
+![App Screenshot](screenshot (4).png)
+![App Screenshot](screenshot (5).png)
+![App Screenshot](screenshot (6).png)
+![App Screenshot](screenshot (7).png)
 
 
 ## 📌 Project Overview
