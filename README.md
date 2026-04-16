@@ -5,7 +5,28 @@ I wanted to share an update that I’ve recently created a new GitHub repository
 
 A Machine Learning project that detects and recognizes pet faces (dogs/cats) using image classification techniques. The goal is to build an accurate and lightweight model that can identify pets from images and potentially scale to multi-breed or multi-animal recognition systems.
 
----
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://landmarkai.nexttoken.app/)
+## 🌐 Live Demo
+
+A working web version of this project has been deployed for real-time inference.
+
+🔗 **Try it live here:** https://petrecognizer.nexttoken.app
+
+### 🧪 Features in Live App:
+- Upload pet images for instant prediction
+- Real-time model inference
+- Simple and interactive UI for testing results
+
+## 📷 Demo
+
+![App Screenshot](screenshot (1))
+![App Screenshot](screenshot (2))
+![App Screenshot](screenshot (3))
+![App Screenshot](screenshot (4))
+![App Screenshot](screenshot (5))
+![App Screenshot](screenshot (6))
+![App Screenshot](screenshot (7))
+
 
 ## 📌 Project Overview
 
